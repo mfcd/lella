@@ -1,2 +1,2 @@
-# scala_pipelines
-Tests and Experiments with computational pipelines
+# lella
+lella is a data structure that handles nested maps and disctionaries
